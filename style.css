@@ -6,6 +6,7 @@ a:focus-visible{outline:3px solid #ffb342;outline-offset:4px;border-radius:3px}
 .page{max-width:860px;margin:auto;padding:28px 22px 36px}
 .brand{display:inline-flex;align-items:center;gap:10px;font-weight:800;font-size:1.15rem;color:#174a37;text-decoration:none}
 .brand-icon{display:grid;place-items:center;width:34px;height:34px;border-radius:9px;background:#174a37;color:#fff;font-size:1.35rem}
+.language-link{float:right;padding:7px 11px;border-radius:10px;background:#fffdf4;font-weight:700}
 .hero{margin:34px 0 24px;padding:42px 40px;border-radius:26px;background:#174a37;color:#fff;box-shadow:0 12px 32px #174a3724}
 .hero-small{padding:36px 40px}
 .eyebrow{display:inline-block;padding:5px 11px;border-radius:999px;background:#eaff87;color:#174a37;font-size:.8rem;font-weight:800;letter-spacing:.035em;text-transform:uppercase}
